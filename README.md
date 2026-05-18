@@ -20,17 +20,17 @@ Responsive Amazon homepage clone built using HTML and CSS to replicate modern e-
 - HTML5
 - CSS3
 
-🎯 Project Goal
+# 🎯 Project Goal
 
 The goal of this project was to strengthen frontend development skills by recreating a modern e-commerce website inspired by Amazon.
 
+--- 
 
-👨‍💻 Developer
+# 👨‍💻 Developer
 
 Samarth Nagesh Khape
 
 🔗 GitHub: https://github.com/SamarthKhape
-
 
 ---
 
